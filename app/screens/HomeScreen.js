@@ -2,7 +2,7 @@ import { View, Text, StyleSheet, Button } from 'react-native'
 
 export const Home = ({ navigation }) => {
     return <View style={styles.container}>
-        <Text>Estoy como estudiante 1</Text>
+        <Text>Estoy como estudiante 2</Text>
 
         <View style={styles.botones}>
 
