@@ -2,7 +2,7 @@ import { View, Text, StyleSheet, Button } from 'react-native'
 
 export const Home = ({ navigation }) => {
     return <View style={styles.container}>
-        <Text>Estoy como estudiante 2</Text>
+        <Text>Estoy como estudiante, no se puede generar los conflictos solo</Text>
 
         <View style={styles.botones}>
 
